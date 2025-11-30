@@ -1,4 +1,4 @@
-# Hi there, I'm Marouane 👋
+# Hi there, I'm Marouane 
 
 ## About Me
 
