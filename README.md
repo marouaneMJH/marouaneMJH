@@ -13,7 +13,7 @@ I don't just write code that works; I write code that **performs exceptionally**
 - **Innovative Solutions** — Pushing boundaries with modern technologies and paradigms
 - **Freelance Projects** — Available for challenging, performance-focused work
 
-🌐 **Portfolio:** [elmoujahid.me](https://elmoujahid.me)
+🌐 **Portfolio:** [elmoujahid.ma](https://elmoujahid.ma)
 
 ---
 
@@ -98,7 +98,7 @@ I don't just write code that works; I write code that **performs exceptionally**
 
 I share insights about performance optimization, system design, and best practices on my blog.
 
-**Read my articles:** [elmoujahid.me/blog](https://elmoujahid.me/blog)
+**Read my articles:** [elmoujahid.ma/blog](https://elmoujahid.ma/blog)
 
 Topics: Performance optimization, system architecture, security, clean code
 
@@ -120,11 +120,11 @@ I'm available for **freelance projects** that involve:
 
 ## Connect With Me
 
-📫 **Portfolio:** [elmoujahid.me](https://elmoujahid.me)
+📫 **Portfolio:** [elmoujahid.ma](https://elmoujahid.ma)
 
 **LinkedIn:** [marwan-el-moujahid](https://www.linkedin.com/in/marwan-el-moujahid/)
 
-**Email:** marouane.elmoujahid-etu@etu.univh2c.me
+**Email:** marouane.elmoujahid-etu@etu.univh2c.ma
 
 ---
 
