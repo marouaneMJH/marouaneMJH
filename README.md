@@ -11,19 +11,20 @@ Full-stack development · Systems programming · Freelance work — big or small
 Building backend systems with NestJS · Writing about what I learn along the way · Exploring Rust, Go, Zig · Contributing where I can
 
 ## Stack
-**Daily:** C, C++, TypeScript, NestJS, React
-**Proficient:** Java, C#, Python, PHP, JavaScript
-**Learning:** Rust, Go, Zig
-**Frontend:** React, Next.js, Vite, Astro, Redux, HTML5/CSS3
-**Backend:** Node.js, NestJS, Express
-**DB:** PostgreSQL, MySQL, SQLite, MSSQL, Oracle
-**Tools:** Git, GitHub, NPM, Bash, LaTeX
+- **Daily:** C, C++, TypeScript, NestJS, React
+- **Proficient:** Java, C#, Python, PHP, JavaScript
+- **Learning:** Rust, Go, Zig
+- **Frontend:** React, Next.js, Vite, Astro, Redux, HTML5/CSS3
+- **Backend:** Node.js, NestJS, Express
+- **DB:** PostgreSQL, MySQL, SQLite, MSSQL, Oracle
+- **Tools:** Git, GitHub, NPM, Bash, LaTeX
 
 <div align="center">
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marouaneMJH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=marouaneMJH&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marouaneMJH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 </div>
 
