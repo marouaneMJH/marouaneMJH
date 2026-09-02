@@ -2,7 +2,7 @@
 
 Software Engineering student who likes understanding how things work underneath — from low-level systems to full-stack apps. I care about writing code that's clean, documented, and built to last, but more than any one specialty, I care about learning. Every project teaches something, and I'd rather stay curious than stay comfortable.
 
-🌐 [elmoujahid.ma](https://elmoujahid.ma) · [Blog](https://elmoujahid.ma/blog) · [LinkedIn](https://www.linkedin.com/in/marwan-el-moujahid/) · marouane.elmoujahid-etu@etu.univh2c.ma
+🌐 [elmoujahid.ma](https://elmoujahid.ma) · [Blog](https://elmoujahid.ma/blog) · [LinkedIn](https://www.linkedin.com/in/marwan-el-moujahid/) · marouane@elmoujahid.ma
 
 ## What I Do
 Full-stack development · Systems programming · Freelance work — big or small, as long as there's something to learn from it
