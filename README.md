@@ -10,14 +10,6 @@ Full-stack development · Systems programming · Freelance work — big or small
 ## Currently
 Building backend systems with NestJS · Writing about what I learn along the way · Exploring Rust, Go, Zig · Contributing where I can
 
-## Stack
-- **Daily:** C, C++, TypeScript, NestJS, React
-- **Proficient:** Java, C#, Python, PHP, JavaScript
-- **Learning:** Rust, Go, Zig
-- **Frontend:** React, Next.js, Vite, Astro, Redux, HTML5/CSS3
-- **Backend:** Node.js, NestJS, Express
-- **DB:** PostgreSQL, MySQL, SQLite, MSSQL, Oracle
-- **Tools:** Git, GitHub, NPM, Bash, LaTeX
 
 <div align="center">
 <!--
