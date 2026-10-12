@@ -1,4 +1,4 @@
-# Hi, I'm Marouane
+# Hi, I'm Marouane El Moujahid
 
 Software Engineering student who likes understanding how things work underneath — from low-level systems to full-stack apps. I care about writing code that's clean, documented, and built to last, but more than any one specialty, I care about learning. Every project teaches something, and I'd rather stay curious than stay comfortable.
 
